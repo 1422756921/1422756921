@@ -2,7 +2,7 @@
   
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
-    <a href="https://blog.qinglin.co/">
+    <a href="https://blog.aerr.cn/">
         <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;为什么你们的主页都那么酷!&center=true&size=27">
     </a>
   </div>
@@ -12,7 +12,7 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://blog.qinglin.co/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://blog.aerr.cn/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://twitter.com/qingyunyx"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://www.youtube.com/@qingyunyx"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="http://wpa.qq.com/msgrd?v=3&uin=1422756921&site=qq&menu=yes"><img src="https://img.shields.io/badge/QQ-企鹅-07c160" /></a>&emsp;
@@ -189,7 +189,7 @@
 <!-- My Blog 博客首页 -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/pig.gif" />&emsp;
 <!--
-<a href="https://blog.qinglin.co"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/pagespeed.screenshot.svg" /></a>
+<a href="https://blog.aerr.cn"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/pagespeed.screenshot.svg" /></a>
 -->
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/pig.gif" />
 
