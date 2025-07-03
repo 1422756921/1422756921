@@ -213,13 +213,13 @@
 <!-- just img 图片 -->
 <img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
 
-<!-- first form 第一个表格 -->
+<!-- first form 第一个表格 
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/people.followers.svg" alt="people.followers" /></td>
   </tr>
 </table>
-
+-->
 <!-- second form 第二个表格 
 <table>
   <tr>
