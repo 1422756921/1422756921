@@ -40,7 +40,7 @@
 
 #  🙋 Hello
 
-<table style="width=100%">
+<table width="100%">
   
 <tr><td>
 
