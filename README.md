@@ -48,7 +48,7 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;嗨，你好，这里是青云依兮的GitHub主页</p>
+<p>&emsp;&emsp;嗨，这里是青云依兮的GitHub主页</p>
 <p>&emsp;&emsp;人称CV工程师</p>
 <p>&emsp;&emsp;一个善于copy优秀资源，喜欢宅家瞎折腾的废物</p>
 
@@ -57,12 +57,6 @@
 <tr><td>
 
 
-### 📊 WakaTime
-
-
-</td></tr>
-
-<tr><td>
 
 
 </td></tr>
